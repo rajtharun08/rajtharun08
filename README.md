@@ -1,20 +1,15 @@
+# Hi there, I'm Tharun
+
 <div align="center">
 
   <!-- THE HERO STATUS ENGINE -->
   <a href="https://github.com/rajtharun08/Clawfather">
     <img src="https://raw.githubusercontent.com/rajtharun08/Clawfather/main/output/profile_tracker.gif" alt="The Clawfather Activity Tracker" width="850"/>
   </a>
+  <br/>
+  <sub><code>status: active</code> • dynamically rendered via <a href="https://github.com/rajtharun08/Clawfather">The Clawfather</a> engine</sub>
 
 </div>
-
-# Hi there, I'm Tharun
-
-<p>
-  <a href="https://linkedin.com/in/tharun-r"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:rajtharun08@gmail.com"><img src="https://img.shields.io/badge/Email-rajtharun08@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://github.com/rajtharun08"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
 
 ---
 
@@ -33,12 +28,12 @@
 
 <div align="center">
 
-| Domain | Technologies |
-|:---|:---|
-| **Languages** | Python, Java, C, C++, TypeScript, JavaScript, SQL, Shell |
-| **Backend & APIs** | FastAPI, Spring Boot, Flask, Celery, REST, GraphQL, WebSockets, FastMCP |
-| **Databases & Stores** | PostgreSQL, MySQL, DuckDB, Neo4j, ChromaDB, Redis, SQLite |
-| **DevOps & Tooling** | Docker, Linux, Git, Maven, Postman, GitHub Actions CI/CD |
+| Layer | Engine & Technologies | Focus |
+|:---|:---|:---|
+| **Core Runtimes** | Python, Java, C++, C, TypeScript, SQL | Deterministic execution, systems logic, algorithms |
+| **API & Distributed Systems** | FastAPI, Spring Boot, Celery, FastMCP, WebSockets, REST | High-throughput services, async pipelines, agent protocols |
+| **Data Topology & Persistence** | PostgreSQL, Neo4j, DuckDB, ChromaDB, Redis, SQLite | Relational schemas, vector indexing, graph architectures |
+| **Platform & Foundations** | Linux, Docker, Git, Postman, Maven, GitHub Actions | Containerization, environment tuning, CI/CD automation |
 
 </div>
 
